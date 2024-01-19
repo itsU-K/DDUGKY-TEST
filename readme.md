@@ -1,10 +1,13 @@
 ```js
+NOTE - Do not use ChatGPT.
+
 Getting Started:
-First, navigate to the given GitHub repository: .
-Download or clone the repository to your local machine.
+extract the file
+open in vscode
+.
 Once you have the code locally, create a new GitHub repository on your account.
 Upload the downloaded code to your new repository.
-Important: Ensure you have both index.html and script.js in your new repository.
+Important: Ensure you have both index.html and script.js and readme.md in your new repository.
 
 
 
@@ -79,4 +82,15 @@ Modify 'john's profession to 'manager'.
 
 Profession Count (10 marks)
 calculate and print the total count of developers and admins in the array.
+
+
+
+NOTE- After completing the test submit your repository link and deployed link in whatsapp with your name and section.
+
+
+
+## HINT- for reference use -MDN WEB DOC   https://developer.mozilla.org/en-US/
+                            W3 schhol     https://www.w3schools.com/
+
+
 ```
