@@ -90,7 +90,7 @@ NOTE- After completing the test submit your repository link and deployed link in
 
 
 ## HINT- for reference use -MDN WEB DOC   https://developer.mozilla.org/en-US/
-                            W3 schhol     https://www.w3schools.com/
+                            w3schools     https://www.w3schools.com/
 
 
 ```
